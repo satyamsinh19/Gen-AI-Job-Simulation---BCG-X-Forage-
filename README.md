@@ -33,10 +33,21 @@ This project simulates a complete financial data pipeline:
   - Year-over-Year (YoY) percentage changes for Revenue and Net Income  
   - Profit Margin (%) and Debt Ratio (Total Liabilities / Total Assets)
 
-### Key Insights
-- **Comparative Financial Health:** Apple and Microsoft dominate in absolute Revenue and Net Income compared to Tesla.  
-- **Revenue Growth:** YoY growth highlights performance acceleration or deceleration trends.  
-- **Profitability & Stability:** Apple and Microsoft show stable profitability; Tesla demonstrates higher volatility but strong growth in certain years.
+### Key Analytical Outputs
+
+The following key ratios and growth figures were calculated using `pandas` and form the basis of the analysis.
+
+| Company | Profit Margin (%) (2024) | Debt Ratio (2024) | Net Income Growth (%) (2023) |
+| :--- | :--- | :--- | :--- |
+| **Microsoft** | 35.95 | 0.47 | -17.89 |
+| **Tesla** | 7.32 | 0.39 | 109.34 |
+| **Apple** | 23.97 | 0.84 | 3.48 |
+
+**Comparative Financial Health**
+
+* **Scale Dominance:** Apple and Microsoft demonstrate significantly higher absolute figures for Revenue and Net Income compared to Tesla.
+* **Profitability Highlight:** Microsoft exhibits the highest Profit Margin in 2024 at 35.95%, indicating strong operational efficiency.
+* **Growth Volatility:** Tesla showed the most significant year-over-year Net Income growth for 2023 at 109.34%, highlighting its rapid, albeit volatile, growth trajectory.
 
 ---
 
