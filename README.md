@@ -19,7 +19,7 @@ This project simulates a complete financial data pipeline:
 
 | Task | Focus Area | Files |
 |------|------------|-------|
-| Task 1 | Data Extraction & Financial Trend Analysis | `Task 1 - BCG.ipynb`, `10-K Filings.xlsx`, `10-K Filings.csv` |
+| Task 1 | Data Extraction & Financial Trend Analysis | `Task 1 - BCG.ipynb`, `10-K Filings.xlsx`, |
 | Task 2 | AI Chatbot Prototype Development | `Financial_Chatbot.py` |
 
 ---
