@@ -58,10 +58,12 @@ The prototype responds to queries such as:
 ---
 
 ## 📂 Repository Structure
-├── 10-K Filings.xlsx - 10-K Filings.csv # Extracted financial data
-├── Financial_Chatbot.py # Chatbot prototype script
-├── Task 1 - BCG.ipynb # Jupyter Notebook for analysis
-└── README.md # Project documentation
+| File / Folder                  | Description                             |
+|--------------------------------|-----------------------------------------|
+| 10-K Filings.xlsx / 10-K Filings.csv | Extracted financial data               |
+| Financial_Chatbot.py           | Chatbot prototype script                |
+| Task 1 - BCG.ipynb             | Jupyter Notebook for analysis           |
+| README.md                       | Project documentation                   |
 
 ---
 
@@ -72,5 +74,5 @@ The prototype responds to queries such as:
 🌐 [LinkedIn](https://www.linkedin.com/in/satyam-kumar-5a229222b)
 
 ---
-## 📂 Repository Structure
+
 
