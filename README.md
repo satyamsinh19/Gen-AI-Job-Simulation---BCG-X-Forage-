@@ -71,9 +71,10 @@ The prototype responds to queries such as:
 ## 📂 Repository Structure
 | File / Folder                  | Description                             |
 |--------------------------------|-----------------------------------------|
-| 10-K Filings.xlsx / 10-K Filings.csv | Extracted financial data               |
+| 10-K Filings.xlsx  | Extracted financial data               |
 | Financial_Chatbot.py           | Chatbot prototype script                |
 | Task 1 - BCG.ipynb             | Jupyter Notebook for analysis           |
+| GenAI Certificate - BCGX.pdf            | Completion Certificate           |
 | README.md                       | Project documentation                   |
 
 ---
