@@ -74,7 +74,7 @@ The prototype responds to queries such as:
 | 10-K Filings.xlsx  | Extracted financial data               |
 | Financial_Chatbot.py           | Chatbot prototype script                |
 | Task 1 - BCG.ipynb             | Jupyter Notebook for analysis           |
-| GenAI Certificate - BCGX.pdf            | Completion Certificate           |
+| GenAI Certificate - BCG X.pdf            | Completion Certificate           |
 | README.md                       | Project documentation                   |
 
 ---
